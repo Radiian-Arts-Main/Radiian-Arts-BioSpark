@@ -1,4 +1,4 @@
-# Welcome to Radiian-Arts-BioSpheres-Generator!
+# Welcome to Radiian-Arts-BioSpark-Generator!
 
 The BioSpark-Generator is where you will give Intelligence and Personality to the various Little Devils that you have Created and is the Second Step in the Bio-Creationist-Evolutionary-Process.
 
