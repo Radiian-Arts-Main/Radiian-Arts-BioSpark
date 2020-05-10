@@ -2,7 +2,7 @@
 
 The BioSpark-Generator is where you will give Intelligence and Personality to the various Little Devils that you have Created and is the Second Step in the Bio-Creationist-Evolutionary-Process.
 
-![Radiian Blue](https://raw.githubusercontent.com/Radiian-Arts-Main/Radiian-Arts-Assets/master/Promotional/PNG/Github-logo-Main-Blue.png)
+![Radiian Blue](https://raw.githubusercontent.com/Radiian-Arts-Main/Radiian-Arts-Assets/master/Promotional/PNG/Github-logo-Main-Yellow.png)
 
 ##  What is this stuff for?
 
